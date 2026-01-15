@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thomas//Artemis II Launch Windows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Artemis II (NASA) — Launch Opportunities (Early 2026)
+X-WR-CALDESC:Potential Artemis II launch windows as published by NASA/CSA. Times are in UTC; each event spans the published window duration.
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:12c501ec-de63-42a3-a4e3-bf74948a11f0@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260207T024100Z
+DTEND:20260207T044100Z
+SUMMARY:Artemis II launch window opens (2026-02-06 9:41 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-02-06 9:41 pm ET\nWindow opens (UTC): 2026-02-07 02:41\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:596c7616-cd6b-430b-a456-f1ba84dbaef6@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260208T034600Z
+DTEND:20260208T054600Z
+SUMMARY:Artemis II launch window opens (2026-02-07 10:46 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-02-07 10:46 pm ET\nWindow opens (UTC): 2026-02-08 03:46\nWindow dur
+ ation: 120 minutes\n\nSource: Canadian Space Agency article (based on NA
+ SA release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:72b6d22b-f465-4701-a212-4b145c0c7d71@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260209T042000Z
+DTEND:20260209T062000Z
+SUMMARY:Artemis II launch window opens (2026-02-08 11:20 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-02-08 11:20 pm ET\nWindow opens (UTC): 2026-02-09 04:20\nWindow dur
+ ation: 120 minutes\n\nSource: Canadian Space Agency article (based on NA
+ SA release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:908263f4-3e78-4020-94a9-57c8b603ee34@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260210T050600Z
+DTEND:20260210T070600Z
+SUMMARY:Artemis II launch window opens (2026-02-10 12:06 am ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-02-10 12:06 am ET\nWindow opens (UTC): 2026-02-10 05:06\nWindow dur
+ ation: 120 minutes\n\nSource: Canadian Space Agency article (based on NA
+ SA release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:09068be3-fd55-4234-b0eb-1c000fa78c9d@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260211T060500Z
+DTEND:20260211T080500Z
+SUMMARY:Artemis II launch window opens (2026-02-11 1:05 am ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-02-11 1:05 am ET\nWindow opens (UTC): 2026-02-11 06:05\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e77ad1b-4361-451a-838e-5e2f1502e328@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260307T012900Z
+DTEND:20260307T032900Z
+SUMMARY:Artemis II launch window opens (2026-03-06 8:29 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-03-06 8:29 pm ET\nWindow opens (UTC): 2026-03-07 01:29\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:455a4e1c-66a7-4690-8ddf-a694f8ecd9d5@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260308T015700Z
+DTEND:20260308T035700Z
+SUMMARY:Artemis II launch window opens (2026-03-07 8:57 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-03-07 8:57 pm ET\nWindow opens (UTC): 2026-03-08 01:57\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf4ec949-8b5f-4480-8d87-14f73c766f49@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260309T025600Z
+DTEND:20260309T045600Z
+SUMMARY:Artemis II launch window opens (2026-03-08 10:56 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-03-08 10:56 pm ET\nWindow opens (UTC): 2026-03-09 02:56\nWindow dur
+ ation: 120 minutes\n\nSource: Canadian Space Agency article (based on NA
+ SA release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b489cdd6-e54a-4342-9695-b178366e6ed4@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260310T035200Z
+DTEND:20260310T055200Z
+SUMMARY:Artemis II launch window opens (2026-03-09 11:52 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-03-09 11:52 pm ET\nWindow opens (UTC): 2026-03-10 03:52\nWindow dur
+ ation: 120 minutes\n\nSource: Canadian Space Agency article (based on NA
+ SA release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ee83702c-fbd8-4bef-991c-65084c812c2d@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260311T044800Z
+DTEND:20260311T064300Z
+SUMMARY:Artemis II launch window opens (2026-03-11 12:48 am ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-03-11 12:48 am ET\nWindow opens (UTC): 2026-03-11 04:48\nWindow dur
+ ation: 115 minutes\n\nSource: Canadian Space Agency article (based on NA
+ SA release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b78b48d-af47-4b3a-802b-786a10554fe7@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260401T222400Z
+DTEND:20260402T002400Z
+SUMMARY:Artemis II launch window opens (2026-04-01 6:24 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-04-01 6:24 pm ET\nWindow opens (UTC): 2026-04-01 22:24\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1dbcbcad-4c47-4b02-88f8-9947cdc33feb@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+SUMMARY:Artemis II launch window opens (2026-04-03 8:00 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-04-03 8:00 pm ET\nWindow opens (UTC): 2026-04-04 00:00\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b27a57e9-73e6-4653-8194-101c7583e4da@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260405T005300Z
+DTEND:20260405T025300Z
+SUMMARY:Artemis II launch window opens (2026-04-04 8:53 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-04-04 8:53 pm ET\nWindow opens (UTC): 2026-04-05 00:53\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8747275-d5be-4272-9fc3-621992a1c168@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260406T014000Z
+DTEND:20260406T034000Z
+SUMMARY:Artemis II launch window opens (2026-04-05 9:40 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-04-05 9:40 pm ET\nWindow opens (UTC): 2026-04-06 01:40\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abc06cb0-1242-4100-b621-5f14bbab8be5@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260407T023600Z
+DTEND:20260407T043600Z
+SUMMARY:Artemis II launch window opens (2026-04-06 10:36 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-04-06 10:36 pm ET\nWindow opens (UTC): 2026-04-07 02:36\nWindow dur
+ ation: 120 minutes\n\nSource: Canadian Space Agency article (based on NA
+ SA release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2e96b173-02b5-4421-ba3f-c4f9218025c3@artemis2.launch.windows
+DTSTAMP:20260115T080849Z
+DTSTART:20260430T220600Z
+DTEND:20260501T000600Z
+SUMMARY:Artemis II launch window opens (2026-04-30 6:06 pm ET)
+DESCRIPTION:Potential Artemis II launch opportunity.\nWindow opens (ET): 
+ 2026-04-30 6:06 pm ET\nWindow opens (UTC): 2026-04-30 22:06\nWindow dura
+ tion: 120 minutes\n\nSource: Canadian Space Agency article (based on NAS
+ A release).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
